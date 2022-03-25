@@ -1,5 +1,5 @@
 # Q-ViT
-Official source code of Q-ViT: Fully Differentiable Quantization for Vision Transformer.
+Official source code of [Q-ViT](https://arxiv.org/abs/2201.07703): Fully Differentiable Quantization for Vision Transformer.
 
 The code will be released as soon as possible.
 
